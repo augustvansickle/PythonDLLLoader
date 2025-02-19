@@ -1,0 +1,1 @@
+Process Injection Payload written in Python3 using ctype library and Win32 API calls. Associated DLL is loaded and executed by payload but the DLL itself is just a POC that launches a message box to proved successful loading of DLL PE.
